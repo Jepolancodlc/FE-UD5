@@ -1,0 +1,13 @@
+C:\Users\jpola\source\repos\UD5\UD5\UD5\obj\Debug\netcoreapp3.1\UD5.csprojAssemblyReference.cache
+C:\Users\jpola\source\repos\UD5\UD5\UD5\obj\Debug\netcoreapp3.1\UD5.AssemblyInfoInputs.cache
+C:\Users\jpola\source\repos\UD5\UD5\UD5\obj\Debug\netcoreapp3.1\UD5.AssemblyInfo.cs
+C:\Users\jpola\source\repos\UD5\UD5\UD5\obj\Debug\netcoreapp3.1\UD5.csproj.CoreCompileInputs.cache
+C:\Users\jpola\source\repos\UD5\UD5\UD5\bin\Debug\netcoreapp3.1\UD5.exe
+C:\Users\jpola\source\repos\UD5\UD5\UD5\bin\Debug\netcoreapp3.1\UD5.deps.json
+C:\Users\jpola\source\repos\UD5\UD5\UD5\bin\Debug\netcoreapp3.1\UD5.runtimeconfig.json
+C:\Users\jpola\source\repos\UD5\UD5\UD5\bin\Debug\netcoreapp3.1\UD5.runtimeconfig.dev.json
+C:\Users\jpola\source\repos\UD5\UD5\UD5\bin\Debug\netcoreapp3.1\UD5.dll
+C:\Users\jpola\source\repos\UD5\UD5\UD5\bin\Debug\netcoreapp3.1\UD5.pdb
+C:\Users\jpola\source\repos\UD5\UD5\UD5\obj\Debug\netcoreapp3.1\UD5.dll
+C:\Users\jpola\source\repos\UD5\UD5\UD5\obj\Debug\netcoreapp3.1\UD5.pdb
+C:\Users\jpola\source\repos\UD5\UD5\UD5\obj\Debug\netcoreapp3.1\UD5.genruntimeconfig.cache
